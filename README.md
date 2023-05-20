@@ -6,3 +6,4 @@ Algoritmos simples, creados en JavaScript para el juego de autopista simple que 
 
 Simple algorithms, created in JavaScript for the simple freeway game that has the objective of reaching the other side of the road as many times as possible, accumulating points with each successful crossing and increasing the difficulty level with each crossing successful.
 
+Orientador: Guilherme Lima
